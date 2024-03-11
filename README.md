@@ -2,7 +2,7 @@
 
 A basic react travel places picker for learning purposes (custom hooks)
 
-This is an upgraded version of https://github.com/LeilaSmh/React_API_PlacePicker.git
+This is an upgraded version of [https://github.com/LeilaSmh/React_API_PlacePicker.git](https://github.com/LeilaSmh/React_API_PlacePicker)
 
 ![image](https://github.com/LeilaSmh/React_API_PlacePicker/assets/50598635/a090caa9-7c92-4a31-84e0-36f2c2aef153)
 
